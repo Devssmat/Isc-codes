@@ -1,0 +1,5 @@
+env          = "dev"
+project_id   = "company-dev-project"
+region       = "asia-south1"
+zone         = "asia-south1-a"
+machine_type = "e2-micro"
